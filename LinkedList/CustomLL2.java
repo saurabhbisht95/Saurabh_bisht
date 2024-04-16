@@ -1,3 +1,4 @@
+//Note :- Here i used the tail part which is not necessary to use the tail part while doing deletion in linkedlist, but for beginners i recommend to use the tail for better understanding.
 package LinkedLIst;
 
 public class CustomLL2 {
